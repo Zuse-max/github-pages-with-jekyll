@@ -1,3 +1,7 @@
+---
+title: "Pull request是什么"
+date: 2020-08-24
+---
 我从单纯的语言学角度解释一下为什么“pull request”这个词组这么令人费解。
 先说正确的理解：pull request是一个request，它的目的是让别人pull你的东西。
 然而pull和request两个名词直接相连构成偏正短语，二者之间具体是什么关系是不确定的。
